@@ -1,4 +1,4 @@
-CLASS zcl_05_string_processing DEFINITION
+CLASS zcl_06_string_processing DEFINITION
   PUBLIC
   FINAL
   CREATE PUBLIC .
@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_05_string_processing IMPLEMENTATION.
+CLASS zcl_06_string_processing IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.
